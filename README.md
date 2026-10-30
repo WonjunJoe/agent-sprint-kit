@@ -1,6 +1,6 @@
 # agent-sprint-kit
 
-사람 한 명과 코딩 에이전트(Codex · Claude Code · Cursor)가 **세 시간 안에** 무언가를 만들고, 끝에 사람이 혼자 설명까지 할 때 쓰는 작업 규칙.
+사람 한 명과 코딩 에이전트(Codex · Claude Code · Cursor)가 만들고, 끝에 사람이 혼자 설명까지 할 때 쓰는 작업 규칙.
 결과물이 아니라 **일하는 방식**이다 
 
 중복 없고 체계적인 workflow를 지향하고, 특이하고 새로운 방식보다 시장에서의 convention을 파악하고 적절히 따른다. 
